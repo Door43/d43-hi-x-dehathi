@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[hi-x-dehathi:home|Door43 (hi-x-dehathi)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-hi-x-dehathi|d43-hi-x-dehathi repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-hi-x-dehathi/archive/master.zip|d43-hi-x-dehathi.zip]]
+
+**Recent Changes**
+{{changes>ns = hi-x-dehathi}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/hi-x-dehathi|Ethnologue data]]
+
