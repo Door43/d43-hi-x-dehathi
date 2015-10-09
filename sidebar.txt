@@ -17,10 +17,7 @@ All content for this namespace is available in the [[https://github.com/Door43/d
 
 [[http://www.ethnologue.com/language/hi-x-dehathi|Ethnologue data]]
 
-
 **Resources**
 
   * [[hi-x-dehathi:obs|Open Bible Stories (hi-x-dehathi)]]
 
-**Latest OBS Status**
-{{page>en:uwadmin:hi-x-dehathi:obs:status}}
